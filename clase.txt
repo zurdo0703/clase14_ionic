@@ -1,0 +1,57 @@
+leer optane
+https://diegogarcia8312.slack.com/messages/CCR3K346M/
+usar cmder
+
+ionic es para desarrollo en mobile para descargar en androi e ios
+
+REQUISITOS
+
+angular
+npm
+git
+gulp
+sas
+
+plantillas 
+
+- super
+- blanc
+
+INSTALACION
+
+npm install gulp -g
+
+npm install bower -g
+
+npm install -g cordova
+
+npm install -g cordova ionic
+
+npm update -g npm
+npm install -g npm-windows-upgrade
+
+Buscar en internet el sdk de android
+
+
+COMANDOS
+
+ionic platform add android 
+ionic cordova platform add android // Segun como se inicialice
+
+INICIO APLICACION
+
+la documentacion de las plantillas para utilizar estan en ionic
+
+ionic start AppVacia blank
+ionic start AppTabs tabs
+ionic start AppMenu sidemenu
+
+EMULAR LA APLICACION EN ANDROID
+
+ionic emulate android
+ionic cordova emulate android
+
+COMPILACION DEL PROYECTO
+
+ionic build androin
+ionic cordova build androin

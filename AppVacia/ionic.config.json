@@ -1,0 +1,7 @@
+{
+  "name": "AppVacia",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
